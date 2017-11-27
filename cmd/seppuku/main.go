@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"bitbucket.org/aelse/seppuku"
+	"github.com/aelse/seppuku"
 )
 
 func main() {
